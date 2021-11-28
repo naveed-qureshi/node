@@ -7,3 +7,7 @@ const inputText = fs.readFileSync('./input.txt', 'utf-8');
 console.log(inputText);
 const outputText = 'This is my first ouput file in node';
 fs.writeFileSync('./output.txt', outputText);
+function abc(){
+    let a= 10;
+    
+}
